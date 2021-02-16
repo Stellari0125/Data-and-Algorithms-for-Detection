@@ -1,0 +1,5 @@
+0.01%: the ratio of Tor traffic to normal traffic
+rate_x: x is the sample ratio
+threshold_y: y is one parameter of NCBF 
+
+The IP address of Tor bridge in this dataset is 80.209.236.17.
