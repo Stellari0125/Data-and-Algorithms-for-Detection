@@ -1,0 +1,1 @@
+There are three classes in the data set including normal traffic, obfs4 traffic, and meek traffic. In the experiment, we only need to detect the obfs4 traffic. 
